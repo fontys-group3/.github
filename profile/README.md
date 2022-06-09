@@ -68,7 +68,7 @@ We have 2 frontends, one for the customer and one for the employees. The one for
 ## Case
 To start it all off, we got a case form our stakeholders.
 
-[InfoSupport Case](https://github.com/fontys-group3/.github/blob/main/profile/Opdracht%20Fontys%20-%20Horeca%20zelf-service%20applicatie.pdf)
+[Restaurant Order System Case](https://github.com/fontys-group3/.github/blob/main/profile/Opdracht%20Fontys%20-%20Horeca%20zelf-service%20applicatie.pdf)
 
 ## User Stories
 Using this case we created user stories for the stakeholders. We showed them the user stories, tweaked them here and there, and started choosing user stories for sprint 1. When we had our set of user stories we started to play some story point poker, and started working on them.
