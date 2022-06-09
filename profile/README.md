@@ -11,6 +11,8 @@
    - [Model](#model)
  - [Project Managment](#project-managment)
    - [Scrum](#scrum)
+   - [User Stories](#user-stories)
+   - [Sprint Release](#sprint-release)
 
 # What is Restaurant Order System
 Restaurant Order Sytem is an web application that exists of 2 smaller applications.
